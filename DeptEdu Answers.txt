@@ -1,0 +1,38 @@
+Q2
+======
+------
+
+
+1:
+SAT scores: SAT_AVG (SAT_AVG_ALL for average of all campuses)
+No Degree-seeking undergrads: UGDS
+4-Year institutions: ICLEVEL=1
+======
+ANS: 1097.24037091
+
+2:
+pearsonr('SAT_AVG','ENRL_ORIG_YR2_RT')
+Pearson Correlation is:
+0.653578
+
+3:
+HI_INC_COMP_ORIG_YR4_RT
+-
+LO_INC_COMP_ORIG_YR4_RT
+=49.6746406256-35.9399771723
+=13.7346634533%
+for LO_INC_COMP_ORIG_YR4_RT, MD_INC_COMP_ORIG_YR4_RT, and HI_INC_COMP_ORIG_YR4_RT available.
+
+4:
+log(pvalue) = -204.363813265
+
+5:
+Diversity Gap = 23.349999999999999%
+The most diverse school = Los Angeles Film School
+
+6:
+The average Women Enrollment = 64.93409%
+
+7:
+Southwest has the highest probablity of institute located in a city
+P = 62.339331619537276%
